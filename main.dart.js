@@ -56233,6 +56233,7 @@ for(s=e0.b,r=s.length,q=e0.as,p=q.a,o=e3.a.a,n=-6*e1,m=e2.as,l=e1*6,k=e4.f,j=e1*
 a2=a1.c
 if(a2===B.cR)continue
 if(a2===B.nz){a1.ay+=e1
+a1.as=Math.max(0,a1.as-l)
 a2=a1.d
 a3=a2.a
 a4=e3.hn(a3[0],a3[2])
