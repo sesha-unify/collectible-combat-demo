@@ -1,0 +1,13 @@
+{
+  "schema": 2,
+  "package": "collectible_combat",
+  "bundleName": "materials",
+  "shaderBundleFileName": "material.materials.30960f86.shaderbundle",
+  "sidecarFileName": "material.materials.30960f86.fmat.json",
+  "materials": {
+    "TerrainSplat": {
+      "entryName": "TerrainSplat",
+      "source": "assets/materials/terrain.fmat"
+    }
+  }
+}

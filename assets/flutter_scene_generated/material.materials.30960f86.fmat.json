@@ -1,0 +1,119 @@
+{
+  "TerrainSplat": {
+    "name": "TerrainSplat",
+    "framework_varying_schema": 2,
+    "domain": "surface",
+    "shading_model": "lit",
+    "blending": "opaque",
+    "culling": "back",
+    "uniform_block": "MaterialParams",
+    "parameters": [
+      {
+        "name": "tiling",
+        "type": "vec4",
+        "default": [
+          0.32,
+          0.3,
+          0.14,
+          0.26
+        ]
+      },
+      {
+        "name": "layer_roughness",
+        "type": "vec4",
+        "default": [
+          0.93,
+          0.96,
+          0.8,
+          0.88
+        ]
+      },
+      {
+        "name": "normal_strength",
+        "type": "float",
+        "default": 1.0
+      },
+      {
+        "name": "sea_level",
+        "type": "float",
+        "default": 0.0
+      },
+      {
+        "name": "lush_tint",
+        "type": "vec3",
+        "default": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "name": "dry_tint",
+        "type": "vec3",
+        "default": [
+          1.25,
+          1.12,
+          0.72
+        ]
+      }
+    ],
+    "samplers": [
+      {
+        "name": "grass_albedo",
+        "type": "sampler2D",
+        "hint": {
+          "kind": "default_white"
+        }
+      },
+      {
+        "name": "grass_normal",
+        "type": "sampler2D",
+        "hint": {
+          "kind": "default_normal"
+        }
+      },
+      {
+        "name": "dirt_albedo",
+        "type": "sampler2D",
+        "hint": {
+          "kind": "default_white"
+        }
+      },
+      {
+        "name": "dirt_normal",
+        "type": "sampler2D",
+        "hint": {
+          "kind": "default_normal"
+        }
+      },
+      {
+        "name": "rock_albedo",
+        "type": "sampler2D",
+        "hint": {
+          "kind": "default_white"
+        }
+      },
+      {
+        "name": "rock_normal",
+        "type": "sampler2D",
+        "hint": {
+          "kind": "default_normal"
+        }
+      },
+      {
+        "name": "sand_albedo",
+        "type": "sampler2D",
+        "hint": {
+          "kind": "default_white"
+        }
+      },
+      {
+        "name": "sand_normal",
+        "type": "sampler2D",
+        "hint": {
+          "kind": "default_normal"
+        }
+      }
+    ]
+  }
+}

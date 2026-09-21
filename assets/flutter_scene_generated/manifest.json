@@ -1,0 +1,139 @@
+{
+  "schema": 3,
+  "package": "collectible_combat",
+  "entries": [
+    {
+      "family": "scene",
+      "id": "assets/cars/ambulance",
+      "file": "scene.ambulance.8eb4ab5f.fsceneb",
+      "stamp": "7719a5d263bd7adf",
+      "source": "assets/cars/ambulance.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/delivery",
+      "file": "scene.delivery.0cfba4d8.fsceneb",
+      "stamp": "29d1c9308c23b6e1",
+      "source": "assets/cars/delivery.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/firetruck",
+      "file": "scene.firetruck.fc5923fe.fsceneb",
+      "stamp": "30ee9b2c0fd55e94",
+      "source": "assets/cars/firetruck.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/garbage-truck",
+      "file": "scene.garbage-truck.928c5b26.fsceneb",
+      "stamp": "d4f0501eb4c7543e",
+      "source": "assets/cars/garbage-truck.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/hatchback-sports",
+      "file": "scene.hatchback-sports.354ccf07.fsceneb",
+      "stamp": "0de207349b1625db",
+      "source": "assets/cars/hatchback-sports.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/police",
+      "file": "scene.police.3f500c09.fsceneb",
+      "stamp": "cc83bd7ff7143cdd",
+      "source": "assets/cars/police.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/race",
+      "file": "scene.race.1314b0f7.fsceneb",
+      "stamp": "45557157c1e3a35b",
+      "source": "assets/cars/race.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/race-future",
+      "file": "scene.race-future.d6fa308e.fsceneb",
+      "stamp": "f0234b9dabb4a4be",
+      "source": "assets/cars/race-future.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/sedan",
+      "file": "scene.sedan.731b0e28.fsceneb",
+      "stamp": "0ded69bd29e59fb4",
+      "source": "assets/cars/sedan.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/sedan-sports",
+      "file": "scene.sedan-sports.57c5f6fc.fsceneb",
+      "stamp": "48859bd6fe7c377d",
+      "source": "assets/cars/sedan-sports.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/suv",
+      "file": "scene.suv.01f95d9b.fsceneb",
+      "stamp": "8f9aaf4e3fbdf8e4",
+      "source": "assets/cars/suv.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/suv-luxury",
+      "file": "scene.suv-luxury.58019ad2.fsceneb",
+      "stamp": "27a94fdd8a6be534",
+      "source": "assets/cars/suv-luxury.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/taxi",
+      "file": "scene.taxi.811d58d0.fsceneb",
+      "stamp": "0c6e91892873c650",
+      "source": "assets/cars/taxi.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/tractor",
+      "file": "scene.tractor.39fdc038.fsceneb",
+      "stamp": "07c3117a17f288f3",
+      "source": "assets/cars/tractor.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/truck",
+      "file": "scene.truck.acbe412c.fsceneb",
+      "stamp": "64668b9e7374a34b",
+      "source": "assets/cars/truck.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/van",
+      "file": "scene.van.0e7e6a3c.fsceneb",
+      "stamp": "b26895baa8e9f84f",
+      "source": "assets/cars/van.glb"
+    },
+    {
+      "family": "material",
+      "id": "materials",
+      "file": "material.materials.30960f86.index.json",
+      "stamp": "50b1328df3d57b54",
+      "target": "openglEs"
+    },
+    {
+      "family": "material",
+      "id": "materials#shaderbundle",
+      "file": "material.materials.30960f86.shaderbundle",
+      "stamp": "50b1328df3d57b54",
+      "target": "openglEs"
+    },
+    {
+      "family": "material",
+      "id": "materials#sidecar",
+      "file": "material.materials.30960f86.fmat.json",
+      "stamp": "50b1328df3d57b54",
+      "target": "openglEs"
+    }
+  ]
+}
