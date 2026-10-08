@@ -1,0 +1,21 @@
+{
+  "schema": 2,
+  "package": "collectible_combat",
+  "bundleName": "materials",
+  "shaderBundleFileName": "material.materials.a7110a51.shaderbundle",
+  "sidecarFileName": "material.materials.a7110a51.fmat.json",
+  "materials": {
+    "OpenSky": {
+      "entryName": "OpenSky",
+      "source": "assets/materials/sky.fmat"
+    },
+    "TerrainSplat": {
+      "entryName": "TerrainSplat",
+      "source": "assets/materials/terrain.fmat"
+    },
+    "SeaSurface": {
+      "entryName": "SeaSurface",
+      "source": "assets/materials/water.fmat"
+    }
+  }
+}

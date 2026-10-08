@@ -5,9 +5,17 @@
   "shaderBundleFileName": "material.materials.30960f86.shaderbundle",
   "sidecarFileName": "material.materials.30960f86.fmat.json",
   "materials": {
+    "OpenSky": {
+      "entryName": "OpenSky",
+      "source": "assets/materials/sky.fmat"
+    },
     "TerrainSplat": {
       "entryName": "TerrainSplat",
       "source": "assets/materials/terrain.fmat"
+    },
+    "SeaSurface": {
+      "entryName": "SeaSurface",
+      "source": "assets/materials/water.fmat"
     }
   }
 }

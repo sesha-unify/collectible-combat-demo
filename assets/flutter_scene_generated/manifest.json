@@ -117,22 +117,43 @@
     {
       "family": "material",
       "id": "materials",
+      "file": "material.materials.a7110a51.index.json",
+      "stamp": "aaf95c2938ef853b",
+      "target": "metalDesktop"
+    },
+    {
+      "family": "material",
+      "id": "materials",
       "file": "material.materials.30960f86.index.json",
-      "stamp": "50b1328df3d57b54",
+      "stamp": "2c87c085e430fb15",
       "target": "openglEs"
     },
     {
       "family": "material",
       "id": "materials#shaderbundle",
+      "file": "material.materials.a7110a51.shaderbundle",
+      "stamp": "aaf95c2938ef853b",
+      "target": "metalDesktop"
+    },
+    {
+      "family": "material",
+      "id": "materials#shaderbundle",
       "file": "material.materials.30960f86.shaderbundle",
-      "stamp": "50b1328df3d57b54",
+      "stamp": "2c87c085e430fb15",
       "target": "openglEs"
     },
     {
       "family": "material",
       "id": "materials#sidecar",
+      "file": "material.materials.a7110a51.fmat.json",
+      "stamp": "aaf95c2938ef853b",
+      "target": "metalDesktop"
+    },
+    {
+      "family": "material",
+      "id": "materials#sidecar",
       "file": "material.materials.30960f86.fmat.json",
-      "stamp": "50b1328df3d57b54",
+      "stamp": "2c87c085e430fb15",
       "target": "openglEs"
     }
   ]
