@@ -11,6 +11,181 @@
     },
     {
       "family": "scene",
+      "id": "assets/cars/baked/ambulance",
+      "file": "scene.ambulance.325cb85d.fsceneb",
+      "stamp": "7d2bb9e3d4c85868",
+      "source": "assets/cars/baked/ambulance.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/buggy",
+      "file": "scene.buggy.05dfba68.fsceneb",
+      "stamp": "850bc92ed7207839",
+      "source": "assets/cars/baked/buggy.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/bus",
+      "file": "scene.bus.e7612bfb.fsceneb",
+      "stamp": "2b4783c72fd8e067",
+      "source": "assets/cars/baked/bus.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/coupe",
+      "file": "scene.coupe.4c9376e6.fsceneb",
+      "stamp": "66b6526523262096",
+      "source": "assets/cars/baked/coupe.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/delivery",
+      "file": "scene.delivery.a52be864.fsceneb",
+      "stamp": "b98ada942c4ad48b",
+      "source": "assets/cars/baked/delivery.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/firetruck",
+      "file": "scene.firetruck.94fe5e9e.fsceneb",
+      "stamp": "e256d5184050be93",
+      "source": "assets/cars/baked/firetruck.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/garbage-truck",
+      "file": "scene.garbage-truck.04af8fde.fsceneb",
+      "stamp": "1e2ad1c8526d0e14",
+      "source": "assets/cars/baked/garbage-truck.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/hatchback-sports",
+      "file": "scene.hatchback-sports.a72da6ad.fsceneb",
+      "stamp": "36be586e90fa9110",
+      "source": "assets/cars/baked/hatchback-sports.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/hotrod",
+      "file": "scene.hotrod.b5b68655.fsceneb",
+      "stamp": "4892df61e99585da",
+      "source": "assets/cars/baked/hotrod.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/kei",
+      "file": "scene.kei.956f7166.fsceneb",
+      "stamp": "490d6c0f46eee0c5",
+      "source": "assets/cars/baked/kei.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/limo",
+      "file": "scene.limo.e6b1ae27.fsceneb",
+      "stamp": "bf7ad9e84d2e2054",
+      "source": "assets/cars/baked/limo.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/monster",
+      "file": "scene.monster.d8009783.fsceneb",
+      "stamp": "3010ea434805db87",
+      "source": "assets/cars/baked/monster.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/muscle",
+      "file": "scene.muscle.819af4fa.fsceneb",
+      "stamp": "5dafb73219f42d16",
+      "source": "assets/cars/baked/muscle.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/police",
+      "file": "scene.police.6377361a.fsceneb",
+      "stamp": "ad1ef086009f8356",
+      "source": "assets/cars/baked/police.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/race",
+      "file": "scene.race.b1684667.fsceneb",
+      "stamp": "ef955f24ead958e3",
+      "source": "assets/cars/baked/race.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/race-future",
+      "file": "scene.race-future.0c3cbe4f.fsceneb",
+      "stamp": "c387b243020d9caf",
+      "source": "assets/cars/baked/race-future.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/roadster",
+      "file": "scene.roadster.09b69fb8.fsceneb",
+      "stamp": "7ebbe06dad37cc2c",
+      "source": "assets/cars/baked/roadster.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/sedan",
+      "file": "scene.sedan.b647a284.fsceneb",
+      "stamp": "ffa27df8b1c0a555",
+      "source": "assets/cars/baked/sedan.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/sedan-sports",
+      "file": "scene.sedan-sports.856e17fa.fsceneb",
+      "stamp": "8e9a4cac5763f2e9",
+      "source": "assets/cars/baked/sedan-sports.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/suv",
+      "file": "scene.suv.b3fb1902.fsceneb",
+      "stamp": "002d5b32cfc19b46",
+      "source": "assets/cars/baked/suv.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/suv-luxury",
+      "file": "scene.suv-luxury.21d0fd31.fsceneb",
+      "stamp": "8608f66640b37a93",
+      "source": "assets/cars/baked/suv-luxury.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/taxi",
+      "file": "scene.taxi.3fce89c2.fsceneb",
+      "stamp": "b196320ce838bdeb",
+      "source": "assets/cars/baked/taxi.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/truck",
+      "file": "scene.truck.4a1cb4dc.fsceneb",
+      "stamp": "80edf9ec5f86a863",
+      "source": "assets/cars/baked/truck.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/van",
+      "file": "scene.van.98222e25.fsceneb",
+      "stamp": "1a3cca419066a676",
+      "source": "assets/cars/baked/van.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/cars/baked/wagon",
+      "file": "scene.wagon.d3cbd6b2.fsceneb",
+      "stamp": "d04dfb77e7db3557",
+      "source": "assets/cars/baked/wagon.glb"
+    },
+    {
+      "family": "scene",
       "id": "assets/cars/delivery",
       "file": "scene.delivery.0cfba4d8.fsceneb",
       "stamp": "29d1c9308c23b6e1",
@@ -118,7 +293,7 @@
       "family": "material",
       "id": "materials",
       "file": "material.materials.a7110a51.index.json",
-      "stamp": "aaf95c2938ef853b",
+      "stamp": "d9b3826fd884a36f",
       "target": "metalDesktop"
     },
     {
@@ -132,7 +307,7 @@
       "family": "material",
       "id": "materials#shaderbundle",
       "file": "material.materials.a7110a51.shaderbundle",
-      "stamp": "aaf95c2938ef853b",
+      "stamp": "d9b3826fd884a36f",
       "target": "metalDesktop"
     },
     {
@@ -146,7 +321,7 @@
       "family": "material",
       "id": "materials#sidecar",
       "file": "material.materials.a7110a51.fmat.json",
-      "stamp": "aaf95c2938ef853b",
+      "stamp": "d9b3826fd884a36f",
       "target": "metalDesktop"
     },
     {
