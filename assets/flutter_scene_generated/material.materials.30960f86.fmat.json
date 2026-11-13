@@ -1,4 +1,94 @@
 {
+  "CarPaint": {
+    "name": "CarPaint",
+    "framework_varying_schema": 2,
+    "domain": "surface",
+    "shading_model": "physical",
+    "blending": "opaque",
+    "culling": "back",
+    "uniform_block": "MaterialParams",
+    "parameters": [
+      {
+        "name": "base_color",
+        "type": "vec4",
+        "default": [
+          0.42,
+          0.03,
+          0.05,
+          1.0
+        ]
+      },
+      {
+        "name": "flake",
+        "type": "vec4",
+        "default": [
+          1.0,
+          0.96,
+          0.9,
+          620.0
+        ]
+      },
+      {
+        "name": "grain",
+        "type": "vec4",
+        "default": [
+          0.42,
+          0.34,
+          0.18,
+          0.38
+        ]
+      },
+      {
+        "name": "coat",
+        "type": "vec4",
+        "default": [
+          1.0,
+          0.035,
+          0.0,
+          1.32
+        ]
+      },
+      {
+        "name": "pearl",
+        "type": "vec4",
+        "default": [
+          380.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "name": "livery",
+        "type": "vec4",
+        "default": [
+          0.0,
+          0.085,
+          0.0,
+          0.012
+        ]
+      },
+      {
+        "name": "livery_color",
+        "type": "vec4",
+        "default": [
+          0.92,
+          0.92,
+          0.94,
+          1.0
+        ]
+      }
+    ],
+    "samplers": [
+      {
+        "name": "occlusion_map",
+        "type": "sampler2D",
+        "hint": {
+          "kind": "default_white"
+        }
+      }
+    ]
+  },
   "OpenSky": {
     "name": "OpenSky",
     "framework_varying_schema": 2,

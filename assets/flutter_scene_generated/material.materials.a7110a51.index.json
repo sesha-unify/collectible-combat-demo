@@ -5,6 +5,10 @@
   "shaderBundleFileName": "material.materials.a7110a51.shaderbundle",
   "sidecarFileName": "material.materials.a7110a51.fmat.json",
   "materials": {
+    "CarPaint": {
+      "entryName": "CarPaint",
+      "source": "assets/materials/carpaint.fmat"
+    },
     "OpenSky": {
       "entryName": "OpenSky",
       "source": "assets/materials/sky.fmat"
