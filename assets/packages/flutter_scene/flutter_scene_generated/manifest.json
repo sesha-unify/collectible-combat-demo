@@ -12,6 +12,13 @@
     {
       "family": "material",
       "id": "physical",
+      "file": "material.physical.7f9f61db.index.json",
+      "stamp": "6f53b7b2ce58e497",
+      "target": "metalIos"
+    },
+    {
+      "family": "material",
+      "id": "physical",
       "file": "material.physical.a322874b.index.json",
       "stamp": "a016ca6774c26af0",
       "target": "openglEs"
@@ -22,6 +29,13 @@
       "file": "material.physical.709abb48.shaderbundle",
       "stamp": "19d42394f713be3a",
       "target": "metalDesktop"
+    },
+    {
+      "family": "material",
+      "id": "physical#shaderbundle",
+      "file": "material.physical.7f9f61db.shaderbundle",
+      "stamp": "6f53b7b2ce58e497",
+      "target": "metalIos"
     },
     {
       "family": "material",
@@ -40,6 +54,13 @@
     {
       "family": "material",
       "id": "physical#sidecar",
+      "file": "material.physical.7f9f61db.fmat.json",
+      "stamp": "6f53b7b2ce58e497",
+      "target": "metalIos"
+    },
+    {
+      "family": "material",
+      "id": "physical#sidecar",
       "file": "material.physical.a322874b.fmat.json",
       "stamp": "a016ca6774c26af0",
       "target": "openglEs"
@@ -50,6 +71,13 @@
       "file": "shaderbundle.base.54bcde05.shaderbundle",
       "stamp": "1d65fcd9ba8ea5ba",
       "target": "metalDesktop"
+    },
+    {
+      "family": "shaderBundle",
+      "id": "base",
+      "file": "shaderbundle.base.70dc5e27.shaderbundle",
+      "stamp": "96abcbb34f31da55",
+      "target": "metalIos"
     },
     {
       "family": "shaderBundle",
