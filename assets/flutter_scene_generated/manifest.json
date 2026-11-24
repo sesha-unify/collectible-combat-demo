@@ -13,175 +13,175 @@
       "family": "scene",
       "id": "assets/cars/baked/ambulance",
       "file": "scene.ambulance.325cb85d.fsceneb",
-      "stamp": "12243fa3a7ad9166",
+      "stamp": "1c3ba6faedcfa785",
       "source": "assets/cars/baked/ambulance.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/buggy",
       "file": "scene.buggy.05dfba68.fsceneb",
-      "stamp": "47c34def48534828",
+      "stamp": "036c2cc4bc05549e",
       "source": "assets/cars/baked/buggy.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/bus",
       "file": "scene.bus.e7612bfb.fsceneb",
-      "stamp": "c35cae669601cb31",
+      "stamp": "8ee18999b0ea0a04",
       "source": "assets/cars/baked/bus.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/coupe",
       "file": "scene.coupe.4c9376e6.fsceneb",
-      "stamp": "6329c4e287fd1a14",
+      "stamp": "7d92bd028d2ceefe",
       "source": "assets/cars/baked/coupe.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/delivery",
       "file": "scene.delivery.a52be864.fsceneb",
-      "stamp": "03833a3774683405",
+      "stamp": "6c4e667a2c525202",
       "source": "assets/cars/baked/delivery.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/firetruck",
       "file": "scene.firetruck.94fe5e9e.fsceneb",
-      "stamp": "7bf9fde19d3a9038",
+      "stamp": "ed3ab1a89ca4295a",
       "source": "assets/cars/baked/firetruck.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/garbage-truck",
       "file": "scene.garbage-truck.04af8fde.fsceneb",
-      "stamp": "aeb7566c3d7d9e55",
+      "stamp": "b078d554682ae2e3",
       "source": "assets/cars/baked/garbage-truck.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/hatchback-sports",
       "file": "scene.hatchback-sports.a72da6ad.fsceneb",
-      "stamp": "ac568793c696c800",
+      "stamp": "18b225a87d8ba9c3",
       "source": "assets/cars/baked/hatchback-sports.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/hotrod",
       "file": "scene.hotrod.b5b68655.fsceneb",
-      "stamp": "1c1a11ebecd9e560",
+      "stamp": "0427e10f1268f0fb",
       "source": "assets/cars/baked/hotrod.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/kei",
       "file": "scene.kei.956f7166.fsceneb",
-      "stamp": "b0533c6b209d9ae5",
+      "stamp": "3c5e04fce7efeeb0",
       "source": "assets/cars/baked/kei.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/limo",
       "file": "scene.limo.e6b1ae27.fsceneb",
-      "stamp": "f7ef0d8f255b69ba",
+      "stamp": "c146a341e7814dc9",
       "source": "assets/cars/baked/limo.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/monster",
       "file": "scene.monster.d8009783.fsceneb",
-      "stamp": "aad3272ade27d28d",
+      "stamp": "9bcfc59f5f9202c7",
       "source": "assets/cars/baked/monster.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/muscle",
       "file": "scene.muscle.819af4fa.fsceneb",
-      "stamp": "7f4147003e5f9f3e",
+      "stamp": "285219e8e5a95656",
       "source": "assets/cars/baked/muscle.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/police",
       "file": "scene.police.6377361a.fsceneb",
-      "stamp": "f89262bd6069c48e",
+      "stamp": "3b01d8b92cee75b3",
       "source": "assets/cars/baked/police.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/race",
       "file": "scene.race.b1684667.fsceneb",
-      "stamp": "14ef0ff388f4cc3e",
+      "stamp": "696fb737be4ddd7d",
       "source": "assets/cars/baked/race.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/race-future",
       "file": "scene.race-future.0c3cbe4f.fsceneb",
-      "stamp": "3745b0511e14b107",
+      "stamp": "afe44c444266fa5b",
       "source": "assets/cars/baked/race-future.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/roadster",
       "file": "scene.roadster.09b69fb8.fsceneb",
-      "stamp": "fc2e6ce4521334aa",
+      "stamp": "f1459e73dcbdefb0",
       "source": "assets/cars/baked/roadster.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/sedan",
       "file": "scene.sedan.b647a284.fsceneb",
-      "stamp": "34dc3252bdfd3970",
+      "stamp": "f65dc05710388e3c",
       "source": "assets/cars/baked/sedan.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/sedan-sports",
       "file": "scene.sedan-sports.856e17fa.fsceneb",
-      "stamp": "204458b73ad93258",
+      "stamp": "a3bebb7ae53c8792",
       "source": "assets/cars/baked/sedan-sports.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/suv",
       "file": "scene.suv.b3fb1902.fsceneb",
-      "stamp": "b2ab5f086a7a03c5",
+      "stamp": "5b2b2712a8d4ba37",
       "source": "assets/cars/baked/suv.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/suv-luxury",
       "file": "scene.suv-luxury.21d0fd31.fsceneb",
-      "stamp": "f411d4558ada66be",
+      "stamp": "d4e40ae94feff196",
       "source": "assets/cars/baked/suv-luxury.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/taxi",
       "file": "scene.taxi.3fce89c2.fsceneb",
-      "stamp": "38297b98a372ac0b",
+      "stamp": "f2507449c85c1add",
       "source": "assets/cars/baked/taxi.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/truck",
       "file": "scene.truck.4a1cb4dc.fsceneb",
-      "stamp": "7f72af31f7b82cf5",
+      "stamp": "9f9c34c29b302109",
       "source": "assets/cars/baked/truck.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/van",
       "file": "scene.van.98222e25.fsceneb",
-      "stamp": "80f8c3ab3f9da1d7",
+      "stamp": "c3595f0290a5e745",
       "source": "assets/cars/baked/van.glb"
     },
     {
       "family": "scene",
       "id": "assets/cars/baked/wagon",
       "file": "scene.wagon.d3cbd6b2.fsceneb",
-      "stamp": "aafb179c6c4ca2a5",
+      "stamp": "42cd42c9ad55d10c",
       "source": "assets/cars/baked/wagon.glb"
     },
     {
